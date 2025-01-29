@@ -169,7 +169,7 @@ Readings of articles and projects
 Programs
 - https://github.com/tesseract-ocr/tesseract
 - https://jupyter.org/install
-- https://www.python.org/downloads/
+- https://www.python.org/downloads/ 
 
 
 
